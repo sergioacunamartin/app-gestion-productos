@@ -1,7 +1,8 @@
 <h1>App de Gestión de Productos</h1>
 
 <p>Esta app de gestión de productos te permite añadir, editar y eliminar productos.</p>
-<a href="https://github.com/sergioacunamartin/app-gestion-productos" title="Ver Proyecto App Gestión de Productos"><img src="https://github.com/sergioacunamartin/app-gestion-tareas/blob/main/cabecera-app-tareas.jpg" alt="Imagen Cabecera App Tareas" /></a>
+<a href="https://github.com/sergioacunamartin/app-gestion-productos" title="Ver Proyecto App Gestión de Productos"><img src="https://github.com/sergioacunamartin/app-gestion-productos/blob/main/cabecera-app-productos.jpg" alt="Imagen Cabecera App Gestión de Productos" /></a>
+
 <h2>Stack Tecnológico</h2>
 <ul>
     <li><strong>Lenguajes de Programación:</strong> Python.</li>
