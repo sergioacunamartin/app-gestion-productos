@@ -8,7 +8,7 @@
     <li><strong>Lenguajes de Programación:</strong> Python.</li>
     <li><strong>Framework:</strong> Tkinter.</li>
     <li><strong>Base de Datos:</strong> SQLite.</li>
-    <li><strong>Herramientas de Desarrollo:</strong>DB Browser.</li>
+    <li><strong>Herramientas de Desarrollo:</strong> DB Browser.</li>
 </ul>
 
 <h2>Instalación</h2>
@@ -19,6 +19,6 @@
 </ol>
 
 <h2>Manual</h2>
-<p>Descarga el manual de uso en pdf <a href="https://github.com/sergioacunamartin/app-gestion-tareas/blob/main/manual-app-tareas.pdf" title="Descargar Manual de Uso">aquí</a>.</p>
+<p>Descarga el manual de uso en pdf <a href="https://github.com/sergioacunamartin/app-gestion-productos/blob/main/manual-app-gestion-productos.pdf" title="Descargar Manual de Uso">aquí</a>.</p>
 
 <p>Gracias!. Un saludo.</p>
